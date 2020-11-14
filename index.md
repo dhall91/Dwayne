@@ -11,24 +11,34 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome to My Page
+## Name is _Dwayne Hall_
+Originally from the east but now i am Living in the west
 
-- Bulleted
-- List
+### Favorite color is Blue
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Passions
+- FootBall
+- Basketball
+- Cricket
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Sports Icons
+1. **C. Gayle**
+2. _Steph Curry_
 
-### Jekyll Themes
+
+neat little code quote about problems `/ignore`
+
+
+
+
+###Pretty cool movie that is coming out and a pretty neat car
+[FAST AND FURIOUS 9 Trailer](https://www.youtube.com/watch?v=FrQpLb1P4EY) and ![White Jag](https://www.google.com/search?rlz=1C1CHBF_enJM925JM925&q=car+photo&tbm=isch&chips=q:car+photo,g_1:jaguar:2i2_EQrWBGE%3D&usg=AI4_-kQt325tVAoeqNQ7DAL_i5XNyXoJ8Q&sa=X&ved=2ahUKEwji84Ce4ILtAhWGtVkKHV-NA1YQgIoDKAF6BAgLEAo&biw=1920&bih=912#imgrc=AnytFvBC-QinIM)
+
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhall91/Dwayne/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
